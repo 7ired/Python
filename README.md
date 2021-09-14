@@ -1,1 +1,1 @@
-# berlin
+# Machine Learning projects repository
